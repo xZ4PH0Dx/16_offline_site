@@ -1,6 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is just our lovely index page without external dependencies.
+You can find necessery dependencies at the assets folder.
 
 # Project Goals
 
